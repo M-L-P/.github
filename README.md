@@ -11,12 +11,22 @@
 # M.L.P.
 M.L.P. devotes his free time to GUI between power-on and boot.<br/>
 What it can achieve is to make the process "_Phoenix's Head, Leopard's Tail_", of using your computer.<br/>
-___Phoenix's Head, Leopard's Tail.___|![image](https://github.com/M-L-P/.github/assets/69227436/cc4bca32-97e5-4a4c-8d08-991112749a1d)
---|--
+|___Phoenix's Head, Leopard's Tail.___|
+|--|
+|![image](https://github.com/M-L-P/.github/assets/69227436/cc4bca32-97e5-4a4c-8d08-991112749a1d)|
 
-The beginning is as beautiful as the head of a phoenix,<br/>while the ending is as powerful as the tail of a leopard.<br/>
-Powering on, the Graphical Interface before entering the Operating System is quite beautiful, with you having a good mood;<br/>
-Shutting down, the screen quickly turns black and extinguished, with you saving time.
+The beginning is as beautiful as the head of a phoenix, while the ending is as powerful as the tail of a leopard.<br/>
+The middle is like pork, with fat and lean meat.<br/>
+Powering on, the Graphical Interface before entering the Operating System is quite pretty, with you having a good mood;<br/>
+Working, it provides the information you need or spams you disgust;<br/>
+Shutting down, the screen quickly turns black and extinguished, with you saving time.<br/>
+In a table,<br/>
+Head|Body|Tail
+--|--|--
+Phoenix's Head|Pig's body|Leopard's Tail
+Beautiful|with Fat and Lean meat|Powerful
+Powering on and Boot|Working|Shutting down
+Pretty|Biphasic|Quickly
 
 ## 💻️Preview👀
 
