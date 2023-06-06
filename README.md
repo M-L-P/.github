@@ -20,6 +20,7 @@ The middle is like pork, with fat and lean meat.<br/>
 Powering on, the Graphical Interface before entering the Operating System is quite pretty, with you having a good mood;<br/>
 Working, it provides the information you need or spams you disgust;<br/>
 Shutting down, the screen quickly turns black and extinguished, with you saving time.<br/>
+
 In a table,<br/>
 Head|Body|Tail
 --|--|--
