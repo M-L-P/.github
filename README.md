@@ -8,7 +8,16 @@
 [English](README.md)|[简体中文](自述文件.md)|[繁體中文](繁體中文.md)|...
 --|--|--|--
 
-## Hi there 👋
+# M.L.P.
+M.L.P. devotes his free time to GUI between power-on and boot.<br/>
+What it can achieve is to make the process "Phoenix's Head, Leopard's Tail", of using your computer.<br/>
+___Phoenix's Head, Leopard's Tail.___
+![image](https://github.com/M-L-P/.github/assets/69227436/cc4bca32-97e5-4a4c-8d08-991112749a1d)<br/>
+The beginning is as beautiful as the head of a phoenix,<br/>while the ending is as powerful as the tail of a leopard.<br/>
+Powering on, the Graphical Interface before entering the Operating System is quite beautiful, with you having a good mood;<br/>
+Shutting down, the screen quickly turns black and extinguished, with you saving time.
+
+## 💻️Preview👀
 
 <!--
 
@@ -20,3 +29,18 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## ⭐Star🌟
+If you like it and are looking forward to the coming update, you can star it.💫
+
+## 🧁Buy me a piece of chocolate🍫
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+I have no father; No man celebrates my birthday; No man buys me a cake🎂.<br/>
+If you are willing, please treat me to a piece of chocolate🍫.<br/>
+I need chocolate🍫 to help me release endorphins and dopamine to get rid of pain.<br/>
+I would be very grateful to you, fairy lady🧚 or handsome knight🦸‍♂️.<br/>
+<img src="https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e" width="300px"><br/>
+<img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
+
+[The List of Fairy Lady🧚 or Handsome kKnight🦸‍♂️](https://github.com/M-L-P/.github/blob/main/list/README.md)
+</details>
