@@ -30,6 +30,61 @@ Powering on and Boot|Working|Shutting down
 Pretty|Biphasic|Quickly
 
 ## 💻️Preview👀
+### icons
+Top 10 of DistroWatch
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+
+Rank|Distribution|Icon
+--|--|--
+1|MX Linux|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_MX.png" width="100px">
+2|EndeavourOS|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_EndeavourOS.png" width="100px">
+3|Mint|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_mint.png" width="100px">
+4|Manjaro|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_manjaro.png" width="100px">
+5|Fedora|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_fedora.png" width="100px">
+6|Pop!_OS|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_pop!.png" width="100px">
+7|Ubuntu|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_ubuntu.png" width="100px">
+8|Debian|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_debian.png" width="100px">
+9|Lite|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_lite.png" width="100px">
+X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_opensuse.png" width="100px">
+</details>
+
+### Yours
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/B.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/B.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/M.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/M.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.B.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.B.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.M.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.M.small.png">
+</details>
+
+### Yours-LegacyBIOS
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+<img src="https://raw.githubusercontent.com/M-L-P/Yours-LegacyBIOS/main/README/about.duet.png">
+</details>
+
+### Yours-UEFI
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+<img src="https://raw.githubusercontent.com/M-L-P/Yours-UEFI/main/README/about.real.png">
+</details>
+
+### brunch-grub2
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+<img src="https://user-images.githubusercontent.com/69227436/237990897-ca96e382-f51a-4b53-bd83-b75cdfa363c8.png">
+</details>
+
+### fyde-grub2
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+<img src="https://user-images.githubusercontent.com/69227436/238185104-c114e5bf-433c-4c11-8147-9630bb3cf5d6.png">
+</details>
 
 <!--
 
@@ -41,8 +96,8 @@ Pretty|Biphasic|Quickly
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## ⭐Star🌟
-If you like it and are looking forward to the coming update, you can star it.💫
+## ⭐Follow🌟
+If you like it and are looking forward to the coming update, you can Follow it.💫
 
 ## 🧁Buy me a piece of chocolate🍫
 <details>
