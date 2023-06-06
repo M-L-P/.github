@@ -10,9 +10,10 @@
 
 # M.L.P.
 M.L.P. devotes his free time to GUI between power-on and boot.<br/>
-What it can achieve is to make the process "Phoenix's Head, Leopard's Tail", of using your computer.<br/>
-___Phoenix's Head, Leopard's Tail.___
-![image](https://github.com/M-L-P/.github/assets/69227436/cc4bca32-97e5-4a4c-8d08-991112749a1d)<br/>
+What it can achieve is to make the process "_Phoenix's Head, Leopard's Tail_", of using your computer.<br/>
+___Phoenix's Head, Leopard's Tail.___|![image](https://github.com/M-L-P/.github/assets/69227436/cc4bca32-97e5-4a4c-8d08-991112749a1d)
+--|--
+
 The beginning is as beautiful as the head of a phoenix,<br/>while the ending is as powerful as the tail of a leopard.<br/>
 Powering on, the Graphical Interface before entering the Operating System is quite beautiful, with you having a good mood;<br/>
 Shutting down, the screen quickly turns black and extinguished, with you saving time.
