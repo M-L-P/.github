@@ -31,7 +31,7 @@ Pretty|Biphasic|Quickly
 
 ## 💻️Preview👀
 ### icons
-Top 10 of DistroWatch
+#### Top 10 of DistroWatch
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -48,6 +48,9 @@ Rank|Distribution|Icon
 9|Lite|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_lite.png" width="100px">
 X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_opensuse.png" width="100px">
 </details>
+
+#### Out of Top 10
+[icons](https://github.com/M-L-P/icons)
 
 ### Yours
 <details>
