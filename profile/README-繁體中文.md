@@ -55,26 +55,26 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 ### Yours
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-<img src="../screenshots/Yours/B.big.png">
-<img src="../screenshots/Yours/B.small.png">
-<img src="../screenshots/Yours/M.big.png">
-<img src="../screenshots/Yours/M.small.png">
-<img src="../screenshots/Yours/1080p.B.big.png">
-<img src="../screenshots/Yours/1080p.B.small.png">
-<img src="../screenshots/Yours/1080p.M.big.png">
-<img src="../screenshots/Yours/1080p.M.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
 </details>
 
 ### Yours-LegacyBIOS
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-<img src="../screenshots/Yours-LegacyBIOS/about.duet.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-LegacyBIOS/about.duet.png">
 </details>
 
 ### Yours-UEFI
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-<img src="../screenshots/Yours-UEFI/about.real.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
 </details>
 
 ### brunch-grub2
