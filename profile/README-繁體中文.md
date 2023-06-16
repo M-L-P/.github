@@ -50,31 +50,31 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 </details>
 
 #### 前十名以外的
-[icons](https://github.com/M-L-P/icons)
+[icons](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)
 
 ### Yours
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/M.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/README/1080p.M.small.png">
+<img src="../screenshots/Yours/B.big.png">
+<img src="../screenshots/Yours/B.small.png">
+<img src="../screenshots/Yours/M.big.png">
+<img src="../screenshots/Yours/M.small.png">
+<img src="../screenshots/Yours/1080p.B.big.png">
+<img src="../screenshots/Yours/1080p.B.small.png">
+<img src="../screenshots/Yours/1080p.M.big.png">
+<img src="../screenshots/Yours/1080p.M.small.png">
 </details>
 
 ### Yours-LegacyBIOS
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/Yours-LegacyBIOS/main/README/about.duet.png">
+<img src="../screenshots/Yours-LegacyBIOS/about.duet.png">
 </details>
 
 ### Yours-UEFI
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/Yours-UEFI/main/README/about.real.png">
+<img src="../screenshots/Yours-UEFI/about.real.png">
 </details>
 
 ### brunch-grub2
