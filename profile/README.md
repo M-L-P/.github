@@ -50,7 +50,7 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 </details>
 
 #### Out of Top 10
-[🖱️Click to Jump to see🖱️](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)
+🚩[🖱️Click to Jump to see🖱️](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)
 
 ### Yours
 <details>
