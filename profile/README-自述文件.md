@@ -1,9 +1,9 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons?label=icons)](https://github.com/M-L-P/icons)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours?label=Yours)](https://github.com/M-L-P/Yours)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours?label=Yours)](https://github.com/M-L-P/rEFInd-theme-Yours)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-LegacyBIOS?label=Yours-LegacyBIOS)](https://github.com/M-L-P/Yours-LegacyBIOS)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-UEFI?label=Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/brunch-grub2?label=brunch-grub2)](https://github.com/M-L-P/brunch-grub2)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/fyde-grub2?label=fyde-grub2)](https://github.com/M-L-P/fyde-grub2)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/brunch-grub2?label=brunch-grub2)](https://github.com/M-L-P/grub2-brunch)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/fyde-grub2?label=fyde-grub2)](https://github.com/M-L-P/grub2-fyde)
 
 [English](https://github.com/M-L-P/.github/blob/main/profile/README.md)|[简体中文](https://github.com/M-L-P/.github/blob/main/profile/README-自述文件.md)|[繁體中文](https://github.com/M-L-P/.github/blob/main/profile/README-繁體中文.md)|...
 --|--|--|--
@@ -31,7 +31,7 @@ Head|Body|Tail
 
 ## 💻️预览👀
 ### icons
-DistroWatch 前十名
+#### DistroWatch 前十名
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
 
