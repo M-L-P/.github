@@ -29,6 +29,17 @@ Beautiful|with Fat and Lean meat|Powerful
 Powering on and Boot|Surfing|Shutting down
 Pretty|Biphasic|Quickly
 
+## 🧭Guide⬇️
+
+Repositories|Introduction|Feature|Usage|Consult
+--|--|--|--|--
+icons|Collections of logos of all the active OSes.|High resolution logos with their name below|Used for boot manager, such as rEFInd, CloverBootloader, and so on.|[Consult](https://github.com/M-L-P/icons/wiki)
+rEFInd-theme-Yours|Theme of rEFInd|You can set your profile, device and your name.|As a submodule|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/wiki)
+Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|Rely on DUET of CloverBootloader.|Used to save old mainboards or Arrandale GPUs that don't support 64bit UEFI|[Consult]()
+Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smoother, hardly interrupted by the code interface|As a main menu to manage Bootloaders from Operating Systems installed on your PC|[Consult]()
+grub2-brunch|Grub2 for Brunch Framework|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult]()
+grub2-fyde|Grub2 for fydeOS, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
+
 ## 💻️Preview👀
 ### icons
 #### Top 10 of DistroWatch
