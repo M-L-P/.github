@@ -41,13 +41,13 @@ grub2-brunch|Grub2 for Brunch Framework|Make full use of the file named `chromeO
 grub2-fyde|Grub2 for fydeOS, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
 
 ```
-                                   ┌─  Windows Boot Manager
-                                   ├─  UEFI Grub2 of Linux Distros
-                                   ├─  OpenCore
-"rEFInd-theme-Yours" Boot Manager ─┼─  CloverBootloader
-                                   ├─  "grub2-brunch"
-                                   ├─  "grub2-fyde"
-                                   └─  "grub2-androidx86"
+									┌─  Windows Boot Manager
+									├─  UEFI Grub2 of Linux Distros
+									├─  OpenCore
+"rEFInd-theme-Yours" Boot Manager  ─┼─  CloverBootloader
+									├─  "grub2-brunch"
+									├─  "grub2-fyde"
+									└─  "grub2-androidx86"
 ```
 
 ## 💻️Preview👀
