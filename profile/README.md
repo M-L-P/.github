@@ -40,6 +40,16 @@ Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smooth
 grub2-brunch|Grub2 for Brunch Framework|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult]()
 grub2-fyde|Grub2 for fydeOS, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
 
+```
+                                   ┌─  Windows Boot Manager
+                                   ├─  UEFI Grub2 of Linux Distros
+                                   ├─  OpenCore
+"rEFInd-theme-Yours" Boot Manager ─┼─  CloverBootloader
+                                   ├─  "grub2-brunch"
+                                   ├─  "grub2-fyde"
+                                   └─  "grub2-androidx86"
+```
+
 ## 💻️Preview👀
 ### icons
 #### Top 10 of DistroWatch
