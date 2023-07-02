@@ -80,13 +80,29 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 ### brunch-grub2
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://user-images.githubusercontent.com/69227436/237990897-ca96e382-f51a-4b53-bd83-b75cdfa363c8.png">
+
+### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/1k.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/1k-ter.png">
+
+#### 1920x1080
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/1080p.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/1080p-ter.png">
 </details>
 
 ### fyde-grub2
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://user-images.githubusercontent.com/69227436/238185104-c114e5bf-433c-4c11-8147-9630bb3cf5d6.png">
+
+### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark-1k.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-1k.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/1k-ter.png">
+
+### 1920x1080
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-ter.png">
 </details>
 
 <!--
