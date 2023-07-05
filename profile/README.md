@@ -116,14 +116,14 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
 ### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark-1k.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-1k.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/1k-ter.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark-1k.png">
 
 ### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-ter.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark.png">
 </details>
 
 <!--
