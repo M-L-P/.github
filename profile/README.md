@@ -2,8 +2,8 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours?label=Yours)](https://github.com/M-L-P/rEFInd-theme-Yours)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-LegacyBIOS?label=Yours-LegacyBIOS)](https://github.com/M-L-P/Yours-LegacyBIOS)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-UEFI?label=Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/brunch-grub2?label=brunch-grub2)](https://github.com/M-L-P/grub2-brunch)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/fyde-grub2?label=fyde-grub2)](https://github.com/M-L-P/grub2-fyde)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-brunch?label=grub2-brunch)](https://github.com/M-L-P/grub2-brunch)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-fyde?label=grub2-fyde)](https://github.com/M-L-P/grub2-fyde)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/theme-ventoy?label=theme-ventoy)](https://github.com/M-L-P/theme-ventoy/releases/latest)
 
