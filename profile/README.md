@@ -5,6 +5,8 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/brunch-grub2?label=brunch-grub2)](https://github.com/M-L-P/grub2-brunch)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/fyde-grub2?label=fyde-grub2)](https://github.com/M-L-P/grub2-fyde)
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/theme-ventoy)](https://github.com/M-L-P/theme-ventoy/releases/latest)
+
 [English](https://github.com/M-L-P/.github/blob/main/profile/README.md)|[简体中文](https://github.com/M-L-P/.github/blob/main/profile/README-自述文件.md)|[繁體中文](https://github.com/M-L-P/.github/blob/main/profile/README-繁體中文.md)|...
 --|--|--|--
 
