@@ -45,13 +45,13 @@ grub2-Android-x86|Grub2 for all kinds of Android-x86 to dualboot|Coming Late|Com
 theme-ventoy|A theme of Ventoy|Better than such thing without tensile elasticity|A solution to adaptation to some common series of resolutions|[Consult]()
 
 ```
-                                  ┌─Windows Boot Manager
-                                  ├─UEFI Grub2 of Linux Distros
-                                  ├─OpenCore
-"rEFInd-theme-Yours" Boot Manager─┼─CloverBootloader
-                                  ├─"grub2-brunch"
-                                  ├─"grub2-fyde"
-                                  └─"grub2-androidx86"
+                                  ╔═Windows Boot Manager
+                                  ╠═UEFI Grub2 of Linux Distros
+                                  ╠═OpenCore
+"rEFInd-theme-Yours" Boot Manager═╬═CloverBootloader
+                                  ╠═"grub2-brunch"
+                                  ╟═"grub2-fyde"
+                                  ╚═"grub2-androidx86"
 ```
 
 ## 💻️Preview👀
