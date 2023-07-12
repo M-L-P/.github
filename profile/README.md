@@ -50,7 +50,7 @@ theme-ventoy|A theme of Ventoy|Better than such thing without tensile elasticity
                                   ╠═OpenCore
 "rEFInd-theme-Yours" Boot Manager═╬═CloverBootloader
                                   ╠═"grub2-brunch"
-                                  ╟═"grub2-fyde"
+                                  ╠═"grub2-fyde"
                                   ╚═"grub2-androidx86"
 ```
 
