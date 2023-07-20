@@ -2,10 +2,10 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours?label=Yours)](https://github.com/M-L-P/rEFInd-theme-Yours)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-LegacyBIOS?label=Yours-LegacyBIOS)](https://github.com/M-L-P/Yours-LegacyBIOS)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-UEFI?label=Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-androidx86?label=grub2-androidx86)](https://github.com/M-L-P/grub2-androidx86)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-brunch?label=grub2-brunch)](https://github.com/M-L-P/grub2-brunch)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-fyde?label=grub2-fyde)](https://github.com/M-L-P/grub2-fyde)
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/theme-ventoy?label=theme-ventoy)](https://github.com/M-L-P/theme-ventoy/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/theme-ventoy?label=theme-ventoy)](https://github.com/M-L-P/theme-ventoy)
 
 [English](https://github.com/M-L-P/.github/blob/main/profile/README.md)|[简体中文](https://github.com/M-L-P/.github/blob/main/profile/README-自述文件.md)|[繁體中文](https://github.com/M-L-P/.github/blob/main/profile/README-繁體中文.md)|...
 --|--|--|--
