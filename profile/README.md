@@ -2,8 +2,10 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours?label=Yours)](https://github.com/M-L-P/rEFInd-theme-Yours)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-LegacyBIOS?label=Yours-LegacyBIOS)](https://github.com/M-L-P/Yours-LegacyBIOS)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-UEFI?label=Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/brunch-grub2?label=brunch-grub2)](https://github.com/M-L-P/grub2-brunch)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/fyde-grub2?label=fyde-grub2)](https://github.com/M-L-P/grub2-fyde)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-brunch?label=grub2-brunch)](https://github.com/M-L-P/grub2-brunch)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-fyde?label=grub2-fyde)](https://github.com/M-L-P/grub2-fyde)
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/theme-ventoy?label=theme-ventoy)](https://github.com/M-L-P/theme-ventoy/releases/latest)
 
 [English](https://github.com/M-L-P/.github/blob/main/profile/README.md)|[简体中文](https://github.com/M-L-P/.github/blob/main/profile/README-自述文件.md)|[繁體中文](https://github.com/M-L-P/.github/blob/main/profile/README-繁體中文.md)|...
 --|--|--|--
@@ -37,17 +39,19 @@ icons|Collections of logos of all the active OSes.|High resolution logos with th
 rEFInd-theme-Yours|Theme of rEFInd|You can set your profile, device and your name.|As a submodule|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/wiki)
 Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|Rely on DUET of CloverBootloader.|Used to save old mainboards or Arrandale GPUs that don't support 64bit UEFI|[Consult]()
 Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smoother, hardly interrupted by the code interface|As a main menu to manage Bootloaders from Operating Systems installed on your PC|[Consult]()
-grub2-brunch|Grub2 for Brunch Framework|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult]()
-grub2-fyde|Grub2 for fydeOS, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
+grub2-brunch|Grub2 for Brunch Framework to dualboot|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult]()
+grub2-fyde|Grub2 for fydeOS to dualboot, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
+grub2-Android-x86|Grub2 for all kinds of Android-x86 to dualboot|Coming Late|Coming Late|Coming Late
+theme-ventoy|A theme of Ventoy|Better than such thing without tensile elasticity|A solution to adaptation to some common series of resolutions|[Consult]()
 
 ```
-                                  ┌─Windows Boot Manager
-                                  ├─UEFI Grub2 of Linux Distros
-                                  ├─OpenCore
-"rEFInd-theme-Yours" Boot Manager─┼─CloverBootloader
-                                  ├─"grub2-brunch"
-                                  ├─"grub2-fyde"
-                                  └─"grub2-androidx86"
+                                  ╔═Windows Boot Manager
+                                  ╠═UEFI Grub2 of Linux Distros
+                                  ╠═OpenCore
+"rEFInd-theme-Yours" Boot Manager═╬═CloverBootloader
+                                  ╠═"grub2-brunch"
+                                  ╠═"grub2-fyde"
+                                  ╚═"grub2-androidx86"
 ```
 
 ## 💻️Preview👀
