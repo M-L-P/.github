@@ -48,7 +48,7 @@ theme-ventoy|Ventoy 的主題|擁有一個適應常見系列分辨率的解決�
                                   ╔═Windows Boot Manager
                                   ╠═UEFI Grub2 of Linux Distros
                                   ╠═OpenCore
-"rEFInd-theme-Yours" 引導管理器   ═╬═CloverBootloader
+"rEFInd-theme-Yours" Boot Manager═╬═CloverBootloader
                                   ╠═"grub2-brunch"
                                   ╠═"grub2-fyde"
                                   ╚═"grub2-androidx86"
