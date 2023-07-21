@@ -36,13 +36,13 @@ Pretty|Biphasic|Quickly
 Repositories|Introduction|Feature|Usage|Consult
 --|--|--|--|--
 icons|Collections of logos of all the active OSes.|High resolution logos with their name below|Used for boot manager, such as rEFInd, CloverBootloader, and so on.|[Consult](https://github.com/M-L-P/icons/wiki)
-rEFInd-theme-Yours|Theme of rEFInd|You can set your profile, device and your name.|As a submodule|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/wiki)
-Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|Rely on DUET of CloverBootloader.|Used to save old mainboards or Arrandale GPUs that don't support 64bit UEFI|[Consult]()
-Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smoother, hardly interrupted by the code interface|As a main menu to manage Bootloaders from Operating Systems installed on your PC|[Consult]()
-grub2-androidx86|Grub2 for all kinds of Android-x86 to dualboot|Set Kernel Command Line Parameters|Used to multiboot all kinds of Android-x86|[Consult]()
-grub2-brunch|Grub2 for Brunch Framework to dualboot|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult]()
-grub2-fyde|Grub2 for fydeOS to dualboot, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
-theme-ventoy|A theme of Ventoy|A solution to adaptation to some common series of resolutions|Used for Ventoy|[Consult]()
+rEFInd-theme-Yours|Theme of rEFInd|You can set your profile, device and your name.|As a submodule|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/)
+Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|Rely on DUET of CloverBootloader.|Used to save old mainboards or Arrandale GPUs that don't support 64bit UEFI|[Consult](https://github.com/M-L-P/Yours-LegacyBIOS)
+Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smoother, hardly interrupted by the code interface|As a main menu to manage Bootloaders from Operating Systems installed on your PC|[Consult](https://github.com/M-L-P/Yours-UEFI)
+grub2-androidx86|Grub2 for all kinds of Android-x86 to dualboot|Set Kernel Command Line Parameters|Used to multiboot all kinds of Android-x86|[Consult](https://github.com/M-L-P/grub2-androidx86)
+grub2-brunch|Grub2 for Brunch Framework to dualboot|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult](https://github.com/M-L-P/grub2-brunch)
+grub2-fyde|Grub2 for fydeOS to dualboot, with theme|Light or Dark|Used to multiboot fydeOS|[Consult](https://github.com/M-L-P/grub2-fyde)
+theme-ventoy|A theme of Ventoy|A solution to adaptation to some common series of resolutions|Used for Ventoy|[Consult](https://github.com/M-L-P/theme-ventoy)
 
 ```
                                   ╔═Windows Boot Manager
