@@ -42,7 +42,7 @@ Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smooth
 grub2-androidx86|Grub2 for all kinds of Android-x86 to dualboot|Set Kernel Command Line Parameters|Used to multiboot all kinds of Android-x86|[Consult]()
 grub2-brunch|Grub2 for Brunch Framework to dualboot|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult]()
 grub2-fyde|Grub2 for fydeOS to dualboot, with theme|Light or Dark|Used to multiboot fydeOS|[Consult]()
-theme-ventoy|A theme of Ventoy|Better than such thing without tensile elasticity|A solution to adaptation to some common series of resolutions|[Consult]()
+theme-ventoy|A theme of Ventoy|A solution to adaptation to some common series of resolutions|Used for Ventoy|[Consult]()
 
 ```
                                   ╔═Windows Boot Manager
