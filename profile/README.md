@@ -102,11 +102,26 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
 </details>
 
-### brunch-grub2
+### grub2-androidx86
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-### 1024x768
+#### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/English.gif">
+
+#### 1920x1080
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/0-open.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/1-lang.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/2-noti.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/3-k.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/4-g.png">
+</details>
+
+### grub2-brunch
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+
+#### 1024x768
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/1k.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/1k-ter.png">
 
@@ -119,12 +134,12 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-### 1024x768
+#### 1024x768
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-1k.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/1k-ter.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark-1k.png">
 
-### 1920x1080
+#### 1920x1080
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-ter.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark.png">
