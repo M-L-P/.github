@@ -35,20 +35,20 @@ Head|Body|Tail
 
 Repositories|Introduction|Feature|Usage|Consult
 --|--|--|--|--
-icons|Collections of logos of all the active OSes.|High resolution logos with their name below|Used for boot manager, such as rEFInd, CloverBootloader, and so on.|[Consult](https://github.com/M-L-P/icons/wiki)
-rEFInd-theme-Yours|Theme of rEFInd|You can set your profile, device and your name.|As a submodule|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/)
-Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|Rely on DUET of CloverBootloader.|Used to save old mainboards or Arrandale GPUs that don't support 64bit UEFI|[Consult](https://github.com/M-L-P/Yours-LegacyBIOS)
-Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|Smoother, hardly interrupted by the code interface|As a main menu to manage Bootloaders from Operating Systems installed on your PC|[Consult](https://github.com/M-L-P/Yours-UEFI)
-grub2-androidx86|Grub2 for all kinds of Android-x86 to dualboot|Set Kernel Command Line Parameters|Used to multiboot all kinds of Android-x86|[Consult](https://github.com/M-L-P/grub2-androidx86)
-grub2-brunch|Grub2 for Brunch Framework to dualboot|Make full use of the file named `chromeOS.img.grub.txt`|Used to multiboot chromeOS patched by Brunch|[Consult](https://github.com/M-L-P/grub2-brunch)
-grub2-fyde|Grub2 for fydeOS to dualboot, with theme|Light or Dark|Used to multiboot fydeOS|[Consult](https://github.com/M-L-P/grub2-fyde)
-theme-ventoy|A theme of Ventoy|A solution to adaptation to some common series of resolutions|Used for Ventoy|[Consult](https://github.com/M-L-P/theme-ventoy)
+icons|收集所有活躍的操作系統的圖標。|高分辨率的圖標，下方有名稱|用於 多系統預啟動程序, 例如：rEFInd，CloverBootloader 等。|[Consult](https://github.com/M-L-P/icons/wiki)
+rEFInd-theme-Yours|rEFInd 主題|你可以設置 用戶頭像、設備名稱 和 機主姓名|作為一個子模塊|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/)
+Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|依賴於 CloverBootloader 的 DUET|用於拯救不支持64位 UEFI 的舊主板以及 Arrandale 顯卡|[Consult](https://github.com/M-L-P/Yours-LegacyBIOS)
+Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|圖形界面更加絲滑，幾乎不被代碼界面打斷|作為一個主菜單，管理 安裝在你的電腦上的操作系統的 啟動引導器|[Consult](https://github.com/M-L-P/Yours-UEFI)
+grub2-androidx86|雙啟動各種 Android-x86 的 Grub2|可以設置內核命令行參數|用來多啟動各種 Android-x86|[Consult](https://github.com/M-L-P/grub2-androidx86)
+grub2-brunch|雙啟動 Brunch 框架的 Grub2|充分利用文本文件 `chromeOS.img.grub.txt`|用來多啟動 Brunch 修補的 chromeOS  |[Consult](https://github.com/M-L-P/grub2-brunch)
+grub2-fyde|雙啟動 fydeOS 並且帶有主題 的 Grub2|亮/暗主題|用來多啟動 fydeOS|[Consult](https://github.com/M-L-P/grub2-fyde)
+theme-ventoy|Ventoy 的主題|擁有一個適應常見系列分辨率的解決方案|用於 Ventoy|[Consult](https://github.com/M-L-P/theme-ventoy)
 
 ```
                                   ╔═Windows Boot Manager
                                   ╠═UEFI Grub2 of Linux Distros
                                   ╠═OpenCore
-"rEFInd-theme-Yours" Boot Manager═╬═CloverBootloader
+"rEFInd-theme-Yours" 引導管理器═╬═CloverBootloader
                                   ╠═"grub2-brunch"
                                   ╠═"grub2-fyde"
                                   ╚═"grub2-androidx86"
