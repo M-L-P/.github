@@ -38,7 +38,7 @@ Repositories|Introduction|Feature|Usage|Consult
 icons|收集所有活躍的操作系統的圖標。|高分辨率的圖標，下方有名稱|用於 多系統預啟動程序, 例如：rEFInd，CloverBootloader 等。|[Consult](https://github.com/M-L-P/icons/wiki)
 rEFInd-theme-Yours|rEFInd 主題|你可以設置 用戶頭像、設備名稱 和 機主姓名|作為一個子模塊|[Consult](https://github.com/M-L-P/rEFInd-theme-Yours/)
 Yours-LegacyBIOS|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for Legacy BIOS.|依賴於 CloverBootloader 的 DUET|用於拯救不支持64位 UEFI 的舊主板以及 Arrandale 顯卡|[Consult](https://github.com/M-L-P/Yours-LegacyBIOS)
-Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|圖形界面更加絲滑，幾乎不被代碼界面打斷|作為一個主菜單，管理 安裝在你的電腦上的操作系統的 啟動引導器|[Consult](https://github.com/M-L-P/Yours-UEFI)
+Yours-UEFI|Y-o-u-r-s,<br/>Your own usual rEFInd's sign for UEFI firmware.|能夠在安全啟動模式開啟的情況下，加載 Clover 或 OpenCore 進而啟動黑蘋果|作為一個主菜單，管理 安裝在你的電腦上的操作系統的 啟動引導器|[Consult](https://github.com/M-L-P/Yours-UEFI)
 grub2-androidx86|雙啟動各種 Android-x86 的 Grub2|可以設置內核命令行參數|用來多啟動各種 Android-x86|[Consult](https://github.com/M-L-P/grub2-androidx86)
 grub2-brunch|雙啟動 Brunch 框架的 Grub2|充分利用文本文件 `chromeOS.img.grub.txt`|用來多啟動 Brunch 修補的 chromeOS  |[Consult](https://github.com/M-L-P/grub2-brunch)
 grub2-fyde|雙啟動 fydeOS 並且帶有主題 的 Grub2|亮/暗主題|用來多啟動 fydeOS|[Consult](https://github.com/M-L-P/grub2-fyde)
