@@ -76,7 +76,7 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 
 #### Out of Top 10
 <details>
-<summary>[🖱️Click to Jump to see🖱️](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)</summary>
+<summary>🖱️[Click to Jump to see](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)🖱️</summary>
 </details>
 
 ### Yours
