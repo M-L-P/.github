@@ -134,15 +134,12 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
 
-#### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-1k.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/1k-ter.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark-1k.png">
+### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/简体中文.gif">
 
-#### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/light-ter.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/dark.png">
+### 1920x1080
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/1080p-light.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/1080p-dark.png">
 </details>
 
 <!--
@@ -158,15 +155,4 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 ## ⭐关注🌟
 如果你喜欢并且期待未来的更新，你可以关注。💫
 
-## 🧁请我吃块巧克力🍫
-<details>
-<summary>🖱️点击展开查看🖱️</summary>
-我没有父亲；没人给我过生日；没人为我买蛋糕🎂。<br/>
-如果你愿意，请我吃块巧克力🍫。<br/>
-我需要巧克力🍫帮助我释放内啡肽与多巴胺来缓解痛苦。<br/>
-我将会非常感谢您，仙女姐姐🧚‍ 或 玉树豪侠🦸‍♂️。<br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e" width="300px"><br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
-
-[🧚仙女豪侠🦸‍♂️ 名单](https://github.com/M-L-P/.github/blob/main/list/README.md)
-</details>
+## [🧁请我吃块巧克力🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)
