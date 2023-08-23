@@ -75,7 +75,7 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 </details>
 
 #### 前十名以外的
-🚩[🖱️點擊跳轉查看🖱️](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)
+- [🖱️點擊跳轉查看🖱️](https://github.com/M-L-P/icons/blob/main/PNGs/README.md)
 
 ### Yours
 <details>
