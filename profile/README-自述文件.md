@@ -132,7 +132,7 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/1080p-settings.png">
 </details>
 
-### fyde-grub2
+### grub2-fyde
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
 
