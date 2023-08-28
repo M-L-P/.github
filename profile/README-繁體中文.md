@@ -1,4 +1,4 @@
-![GitHub Org's stars](https://img.shields.io/github/stars/M-L-P)
+![GitHub Org's stars](https://img.shields.io/github/stars/M-L-P?label=Total%20Stars%20of%20M.L.P.)
 
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons?label=icons)](https://github.com/M-L-P/icons)
