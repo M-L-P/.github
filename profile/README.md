@@ -1,3 +1,6 @@
+![GitHub Org's stars](https://img.shields.io/github/stars/M-L-P)
+
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons?label=icons)](https://github.com/M-L-P/icons)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours?label=Yours)](https://github.com/M-L-P/rEFInd-theme-Yours)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-LegacyBIOS?label=Yours-LegacyBIOS)](https://github.com/M-L-P/Yours-LegacyBIOS)
