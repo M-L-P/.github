@@ -157,4 +157,4 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 ## ⭐關註🌟
 如果你喜歡並且期待未來的更新，你可以關註。💫
 
-## [🧁請我吃塊巧克力🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)
+## [🧁請我吃塊巧克力🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)

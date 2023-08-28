@@ -157,4 +157,4 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 ## ⭐Follow🌟
 If you like it and are looking forward to the coming update, you can Follow it.💫
 
-## [🧁Buy me a piece of chocolate🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)
+## [🧁Buy me a piece of chocolate🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
