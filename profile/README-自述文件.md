@@ -65,16 +65,16 @@ theme-ventoy|Ventoy 的主题|拥有一个适应常见系列分辨率的解决�
 
 排名|发行版|图标
 --|--|--
-1|MX Linux|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_MX.png" width="100px">
-2|EndeavourOS|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_EndeavourOS.png" width="100px">
-3|Mint|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_mint.png" width="100px">
-4|Manjaro|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_manjaro.png" width="100px">
-5|Fedora|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_fedora.png" width="100px">
-6|Pop!_OS|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_pop!.png" width="100px">
-7|Ubuntu|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_ubuntu.png" width="100px">
-8|Debian|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_debian.png" width="100px">
-9|Lite|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_lite.png" width="100px">
-X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_opensuse.png" width="100px">
+1|MX Linux|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_MX.png" width="100px">
+2|EndeavourOS|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_EndeavourOS.png" width="100px">
+3|Mint|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_mint.png" width="100px">
+4|Manjaro|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_manjaro.png" width="100px">
+5|Fedora|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_fedora.png" width="100px">
+6|Pop!_OS|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_pop!.png" width="100px">
+7|Ubuntu|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_ubuntu.png" width="100px">
+8|Debian|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_debian.png" width="100px">
+9|Lite|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_lite.png" width="100px">
+X|openSUSE|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/Yours/main/Settings/icon/showing/os_opensuse.png" width="100px">
 </details>
 
 #### 前十名以外的
@@ -83,26 +83,26 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 ### Yours
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
 </details>
 
 ### Yours-LegacyBIOS
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-LegacyBIOS/about.duet.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-LegacyBIOS/about.duet.png">
 </details>
 
 ### Yours-UEFI
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
 </details>
 
 ### grub2-androidx86
@@ -110,14 +110,14 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <summary>🖱️点击展开查看🖱️</summary>
 
 #### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/简体中文.gif">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/简体中文.gif">
 
 #### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/0-open.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/1-lang.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/2-noti.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/3-k.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/4-g.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/0-open.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/1-lang.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/2-noti.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/3-k.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/4-g.png">
 </details>
 
 ### grub2-brunch
@@ -125,11 +125,11 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <summary>🖱️点击展开查看🖱️</summary>
 
 ### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/简体中文.gif">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/简体中文.gif">
 
 #### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/1080p-menu.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/1080p-settings.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/1080p-menu.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-brunch/简体中文/1080p-settings.png">
 </details>
 
 ### grub2-fyde
@@ -137,11 +137,11 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <summary>🖱️点击展开查看🖱️</summary>
 
 ### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/简体中文.gif">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/简体中文.gif">
 
 ### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/1080p-light.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/1080p-dark.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/1080p-light.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-fyde/简体中文/1080p-dark.png">
 </details>
 
 <!--
