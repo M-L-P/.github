@@ -109,15 +109,13 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-#### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/English.gif">
+### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/Preview.gif">
 
-#### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/0-open.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/1-lang.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/2-noti.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/3-k.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/4-g.png">
+### 1366x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/noti.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/English/settings.png">
+
 </details>
 
 ### grub2-brunch

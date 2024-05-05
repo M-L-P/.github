@@ -109,15 +109,13 @@ X|openSUSE|<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
 
-#### 1024x768
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/简体中文.gif">
+### 1024x768
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/Preview.gif">
 
-#### 1920x1080
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/0-open.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/1-lang.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/2-noti.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/3-k.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/4-g.png">
+### 1366x768
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/noti.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/简体中文/settings.png">
+
 </details>
 
 ### grub2-brunch

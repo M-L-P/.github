@@ -109,15 +109,13 @@ X|openSUSE|<img src="https://raw.githubusercontent.com/M-L-P/Yours/main/Settings
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
 
-#### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/繁體中文.gif">
+### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/Preview.gif">
 
-#### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/0-open.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/1-lang.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/2-noti.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/3-k.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/4-g.png">
+### 1366x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/noti.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-androidx86/繁體中文/settings.png">
+
 </details>
 
 ### grub2-brunch
